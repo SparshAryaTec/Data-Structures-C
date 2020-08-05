@@ -1,2 +1,2 @@
 # Data-Structures-C
- Codes in C with comments
+ Working Chess Game on Dev C++ Major Project. 
